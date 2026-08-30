@@ -82,7 +82,7 @@ An interactive dashboard was developed to monitor:
 
 ## Dashboard Preview
 
-![Authentication Risk Dashboard](images/dashboard.png)
+![Authentication Risk Dashboard](images/Dashboard.png)
 
 ## Key Insights
 
