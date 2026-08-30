@@ -99,3 +99,10 @@ The analysis helps identify authentication events that may require further secur
 | `cybersecurity_risk_analysis.sql` | MySQL queries for authentication risk analysis |
 | `pivot_table_.csv` | Excel pivot table analysis output |
 | `README.md` | Project documentation |
+
+##  Author
+
+**Harshita Arora**
+
+B.Tech Computer Science
+Aspiring Data Analyst
