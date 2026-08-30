@@ -88,16 +88,14 @@ An interactive dashboard was developed to monitor:
 
 The analysis helps identify authentication events that may require further security investigation by highlighting repeated failures, risky IP activity, and high-risk authentication events.
 
-## Project Structure
+## Project Files
 
-Cybersecurity-Authentication-Risk-Analytics/
-│
-├── images/
-│   └── Authentication Risk Dashboard.png
-│
-├── Authentication_Risk_Analytics.pbix
-├── cybersecurity_auth_risk_analytics_final.csv
-├── cybersecurity_risk_analysis.ipynb
-├── cybersecurity_risk_analysis.sql
-├── pivot_table_.csv
-└── README.md
+| File/Folder | Description |
+|------------|-------------|
+| `images/` | Contains the Power BI dashboard screenshots |
+| `Authentication_Risk_Analytics.pbix` | Interactive Power BI dashboard file |
+| `cybersecurity_auth_risk_analytics_final.csv` | Final cleaned and enriched authentication dataset |
+| `cybersecurity_risk_analysis.ipynb` | Python (Pandas) data cleaning, feature engineering, and risk analysis |
+| `cybersecurity_risk_analysis.sql` | MySQL queries for authentication risk analysis |
+| `pivot_table_.csv` | Excel pivot table analysis output |
+| `README.md` | Project documentation |
