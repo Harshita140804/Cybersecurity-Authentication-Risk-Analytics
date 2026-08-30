@@ -90,12 +90,14 @@ The analysis helps identify authentication events that may require further secur
 
 ## Project Structure
 
-```text
 Cybersecurity-Authentication-Risk-Analytics/
 │
-├── data/
-├── python/
-├── sql/
-├── powerbi/
 ├── images/
+│   └── Authentication Risk Dashboard.png
+│
+├── Authentication_Risk_Analytics.pbix
+├── cybersecurity_auth_risk_analytics_final.csv
+├── cybersecurity_risk_analysis.ipynb
+├── cybersecurity_risk_analysis.sql
+├── pivot_table_.csv
 └── README.md
